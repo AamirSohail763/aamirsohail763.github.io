@@ -1084,6 +1084,7 @@ img {
 
 /* new insertions */
 
-/* .skill_maindiv{
-  border: 1px dashed red;
-} */
+.form_button{
+  border: none;
+  border-radius: 9px;
+}
